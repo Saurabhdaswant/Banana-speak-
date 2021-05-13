@@ -1,0 +1,31 @@
+/* dont need extra space  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body  default color  */
+
+body {
+  background-color: #bddcff;
+}
+
+/* here main 😌😉 is centerd */
+
+main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* button styling  */
+#btn {
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  border: none;
+  background: white;
+  box-shadow: rgb(0 0 0 / 10%) 0px 8px 40px;
+}
